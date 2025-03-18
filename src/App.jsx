@@ -1,7 +1,8 @@
 // src/App.js
 import React from 'react';
 import { Container, Box } from '@mui/material';
-import SIPCalculator from './Component/SIPCalculator';
+
+import SIPCalculator from './Component/SipCalculator';
 
 function App() {
   return (
