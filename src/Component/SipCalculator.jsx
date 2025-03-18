@@ -1,6 +1,6 @@
 // src/components/SIPCalculator.js
 import React, { useState } from 'react';
-import SIPGraph from './SIPGraph';
+import SIPGraph from './SipGraph';
 import BarInput from './BarInput';
 import { Button, Box, Typography, Paper, ButtonGroup } from '@mui/material';
 import jsPDF from 'jspdf';
